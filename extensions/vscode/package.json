@@ -186,7 +186,7 @@
     "tslint": "^5.12.1",
     "typescript": "^3.5.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "change-case": "^3.1.0",
